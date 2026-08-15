@@ -1,0 +1,127 @@
+---
+title: "Teaching"
+title-block-banner: "#522D80"
+title-block-banner-color: "#FFFFFF"
+page-layout: full
+---
+
+::: {.teaching-page}
+
+## Instructor of Record
+
+### Clemson University
+
+*John E. Walker Department of Economics*
+
+
+### ECON 3100: International Economy | Undergraduate | Fall 2026
+
+*Scheduled*
+
+
+### ECON 3100: International Economy | Undergraduate | Summer 2026
+
+**Student course evaluation**
+
+- Clearly explained concepts, methods, and subject matter: **4.64/5**
+- Answered students' questions clearly and fully: **4.55/5**
+
+**Selected comments**
+
+- *“I absolutely loved this course and thought Nick was a great teacher. I enjoyed watching his lectures because they were great at explaining all concepts related to the course topics.”*
+
+- *“Everything in the class was organized and easy to follow, which is perfect for it being an online class. I really enjoyed watching the professors videos and how apparent it was that he cared about this course.”*
+
+
+### ECON 3100: International Economy | Undergraduate | Spring 2026
+
+**Student course evaluation**
+
+- Clearly explained concepts, methods, and subject matter: **4.74/5**
+- Answered students' questions clearly and fully: **4.68/5**
+
+**Selected comments**
+
+- *“Super engaged professor who's very obviously passionate about economics. I thought the content was very clear, and his lectures were engaging. I thought tests and evaluations were very fair.”*
+
+- *“One of the only courses I've taken at this school where everything was perfectly outlined for me to know how to be successful. Professor was always available outside the classroom. Super glad I took this class as it actually applied to the real world.”*
+
+
+### ECON 3100: International Economy | Undergraduate | Fall 2025
+
+**Student course evaluation**
+
+- Clearly explained concepts, methods, and subject matter: **4.31/5**
+- Answered students' questions clearly and fully: **4.53/5**
+
+**Selected comments**
+
+- *“Pls keep him as a professor at Clemson!! I have never had a professor who is this great at connecting real-world examples with the concepts that are on the slides.”*
+
+- *“Nick was very helpful in answering emails and making class as interesting as possible. He explained things in simple terms instead of very academic language, which really helped me understand ideas that I haven't been able to grasp well before in other economics classes.”*
+
+
+### ECON 3100: International Economy | Undergraduate | Summer 2025
+
+**Student course evaluation**
+
+- Clearly explained concepts, methods, and subject matter: **4.82/5**
+- Answered students' questions clearly and fully: **4.82/5**
+
+**Selected comments**
+
+- *“I think his ability to explain concepts in a way that anybody can understand is very much appreciated.”*
+
+- *“Whenever I had a question in this course Dr. Dunagan always answered quickly and responded thoroughly. The syllabus was very clear. Any and all assignment due dates were clearly posted and I knew what was expected for each assignment.”*
+
+
+### ECON 3100: International Economy | Undergraduate | Spring 2025
+
+**Student course evaluation**
+
+- Clearly explained concepts, methods, and subject matter: **4.59/5**
+- Answered students' questions clearly and fully: **4.55/5**
+
+**Selected comments**
+
+- *“The professor was really great at explaining concepts in a clear way that was easy to understand and apply. He also was available to help students during office hours and clearly wanted to help and see everyone succeed.”*
+
+- *“I think Nick was very good at teaching this course, you can tell he has a wealth of knowledge on the subject and he brings his knowledge down to the student level to clearly communicate the material.”*
+
+
+### ECON 3100: International Economy | Undergraduate | Fall 2024
+
+**Student course evaluation**
+
+- Clearly explained concepts, methods, and subject matter: **3.86/5**
+- Answered students' questions clearly and fully: **4.34/5**
+
+**Selected comments**
+
+- *“This has been the most clear, straightforward, and understandable economics class of my time at Clemson. Prof. Dunagan really cares for his students, and you can tell how much he loves teaching.”*
+
+- *“The professor does a great job at trying to explain the concepts easily with examples without it feeling like he is talking down to the students.”*
+
+
+## Teaching Assistant
+
+### Clemson University
+
+*John E. Walker Department of Economics*
+
+**Principles of Microeconomics**
+Fall 2022 · Spring 2023 · Fall 2023
+
+**Principles of Macroeconomics**
+Fall 2022 · Spring 2023 · Spring 2024
+
+**International Economy**
+Summer 2024
+
+
+## Teaching Recognition
+
+**Graduate Assistant Excellence Award in Teaching**
+Clemson University, Powers College of Business · 2025
+
+:::

@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Dunagan Economics"
+
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: files/Dunagan_CV.pdf
+        text: CV
+
+  page-footer:
+    left: "Nick Dunagan"
+    right: "Ph.D. Candidate in Economics, Clemson University"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+editor: source

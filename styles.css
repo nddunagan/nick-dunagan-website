@@ -1,0 +1,611 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+
+
+/* =========================================================
+   Nick Dunagan
+   Academic Website
+   ========================================================= */
+
+
+/* =========================================================
+   General
+   ========================================================= */
+
+body {
+  background-color: #ffffff;
+  color: #222222;
+
+  font-family: "Source Sans 3", Arial, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.7;
+}
+
+
+/* =========================================================
+   Navbar
+   ========================================================= */
+
+.navbar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #dddddd;
+
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.navbar-brand {
+  color: #222222;
+
+  font-family: "Source Sans 3", Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link {
+  color: #333333;
+
+  font-size: 1.02rem;
+
+  margin-left: 0.65rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   Quarto Title Banner
+   ========================================================= */
+
+.quarto-title-banner {
+  position: relative;
+  overflow: hidden;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4b2776 0%,
+      #522D80 45%,
+      #5f3690 100%
+    );
+
+  padding-top: 4.75rem;
+  padding-bottom: 4.25rem;
+
+  margin-bottom: 4rem;
+}
+
+
+/* Subtle texture */
+
+.quarto-title-banner::before {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  pointer-events: none;
+
+  opacity: 0.25;
+
+  background:
+    repeating-linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.08) 0px,
+      rgba(255, 255, 255, 0.08) 2px,
+      transparent 2px,
+      transparent 12px
+    ),
+    radial-gradient(
+      circle at top left,
+      rgba(255, 255, 255, 0.14),
+      transparent 45%
+    ),
+    radial-gradient(
+      circle at bottom right,
+      rgba(0, 0, 0, 0.14),
+      transparent 40%
+    );
+}
+
+
+.quarto-title-banner .quarto-title {
+  position: relative;
+  z-index: 1;
+
+  text-align: center;
+}
+
+
+.quarto-title-banner .title {
+  color: #ffffff !important;
+
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 5.2rem;
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: 0.02em;
+
+  text-align: center;
+
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+/* White bar beneath name */
+
+.quarto-title-banner .title::after {
+  content: "";
+
+  display: block;
+
+  width: 560px;
+  height: 4px;
+
+  margin: 1rem auto 0 auto;
+
+  background-color: rgba(255, 255, 255, 0.92);
+
+  border-radius: 2px;
+}
+
+
+/* =========================================================
+   Homepage
+   ========================================================= */
+
+.homepage {
+  max-width: 1050px;
+
+  margin: 0 auto;
+
+  padding: 0 2rem 4.5rem 2rem;
+}
+
+
+/* =========================================================
+   Profile
+   ========================================================= */
+
+.profile-grid {
+  display: grid;
+
+  grid-template-columns: 250px 1fr;
+  gap: 3.2rem;
+
+  align-items: start;
+
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+
+  border-bottom: 2px solid rgba(82, 45, 128, 0.35);
+}
+
+
+.headshot {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+
+  border-radius: 0;
+}
+
+
+.profile-text {
+  font-size: 1.24rem;
+}
+
+
+.profile-text p:first-child {
+  margin-top: 0;
+}
+
+
+.profile-text p {
+  margin-bottom: 1.5rem;
+}
+
+
+/* =========================================================
+   JMP / Contact Two-Column Section
+   ========================================================= */
+
+.bottom-grid {
+  display: grid;
+
+  grid-template-columns: 1.4fr 1fr;
+  gap: 4rem;
+
+  align-items: start;
+
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+
+.bottom-column h2 {
+  margin-top: 0;
+}
+
+
+/* =========================================================
+   Section Headings
+   ========================================================= */
+
+.homepage h2 {
+  color: #222222;
+
+  font-size: 1.8rem;
+  font-weight: 500;
+
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+
+  border: none;
+  padding: 0;
+}
+
+
+/* =========================================================
+   Job Market Paper
+   ========================================================= */
+
+.homepage strong {
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   Contact Information
+   ========================================================= */
+
+.contact-address {
+  line-height: 1.35;
+  margin-bottom: 0.9rem;
+}
+
+.contact-address p {
+  margin: 0;
+}
+
+.contact-links {
+  line-height: 1.35;
+  margin-top: 0.9rem;
+}
+
+.contact-links p {
+  margin: 0;
+}
+
+/* =========================================================
+   Links
+   ========================================================= */
+
+a {
+  color: #315a7d;
+
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: #173b5b;
+
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   Footer
+   ========================================================= */
+
+.nav-footer {
+  background:
+    linear-gradient(
+      135deg,
+      #4b2776 0%,
+      #522D80 45%,
+      #5f3690 100%
+    );
+
+  border-top: none;
+
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+
+  margin-top: 4rem;
+
+  color: #ffffff !important;
+
+  font-size: 1rem;
+}
+
+
+.nav-footer .nav-footer-left,
+.nav-footer .nav-footer-center,
+.nav-footer .nav-footer-right,
+.nav-footer a {
+  color: #ffffff !important;
+}
+
+
+/* =========================================================
+   Mobile
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  body {
+    font-size: 1.08rem;
+  }
+
+
+  .quarto-title-banner {
+    padding-top: 3.25rem;
+    padding-bottom: 3rem;
+
+    margin-bottom: 2.5rem;
+  }
+
+
+  .quarto-title-banner .title {
+    font-size: 3.4rem;
+  }
+
+
+  .quarto-title-banner .title::after {
+    width: 110px;
+
+    margin-top: 0.8rem;
+  }
+
+
+  .homepage {
+    padding: 0 1.25rem 4rem 1.25rem;
+  }
+
+
+  .profile-grid {
+    grid-template-columns: 1fr;
+
+    gap: 1.75rem;
+
+    padding-bottom: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+
+  .headshot {
+    max-width: 230px;
+  }
+
+
+  .profile-text {
+    font-size: 1.08rem;
+  }
+
+
+  .bottom-grid {
+    grid-template-columns: 1fr;
+
+    gap: 2.5rem;
+  }
+}
+
+/* =========================================================
+   Teaching Page
+   ========================================================= */
+
+.teaching-page {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 0 2rem 4.5rem 2rem;
+}
+
+
+/* Main sections */
+
+.teaching-page h2 {
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: #222222;
+
+  margin-top: 4rem;
+  margin-bottom: 1.4rem;
+
+  padding-bottom: 0.6rem;
+
+  border-bottom: 2px solid rgba(82, 45, 128, 0.35);
+}
+
+.teaching-page h2:first-child {
+  margin-top: 0;
+}
+
+
+/* University */
+
+.teaching-page h3 {
+  font-size: 1.45rem;
+  font-weight: 600;
+
+  color: #222222;
+
+  margin-top: 3rem;
+  margin-bottom: 0.75rem;
+}
+
+
+/* Evaluation labels */
+
+.teaching-page h3 + p {
+  margin-top: 0.25rem;
+}
+
+
+/* Evaluation score list */
+
+.teaching-page ul {
+  margin-top: 0.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.teaching-page li {
+  margin-bottom: 0.35rem;
+}
+
+
+/* Selected student comments */
+
+.teaching-page strong + ul {
+  margin-top: 0.6rem;
+}
+
+.teaching-page li em {
+  color: #444444;
+}
+
+
+/* Create separation between semesters */
+
+.teaching-page h3:not(:first-of-type) {
+  padding-top: 0.75rem;
+}
+
+
+/* Teaching Assistant courses */
+
+.teaching-page h2:nth-of-type(2) ~ p strong {
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   Mobile Teaching Page
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  .teaching-page {
+    padding: 0 1.25rem 4rem 1.25rem;
+  }
+
+  .teaching-page h2 {
+    font-size: 1.6rem;
+  }
+
+  .teaching-page h3 {
+    font-size: 1.25rem;
+    line-height: 1.35;
+  }
+}
+
+/* =========================================================
+   Research Page
+   ========================================================= */
+
+.research-page {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 0 2rem 4.5rem 2rem;
+}
+
+
+/* Main research sections */
+
+.research-page h2 {
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: #222222;
+
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+
+  padding-bottom: 0.6rem;
+
+  border-bottom: 2px solid rgba(82, 45, 128, 0.35);
+}
+
+
+.research-page h2:first-child {
+  margin-top: 0;
+}
+
+
+/* Paper titles */
+
+.research-page h3 {
+  font-size: 1.45rem;
+  font-weight: 600;
+  line-height: 1.35;
+
+  color: #222222;
+
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+
+/* Individual papers */
+
+.paper-entry {
+  margin-top: 2rem;
+  margin-bottom: 3.5rem;
+}
+
+
+.paper-entry p {
+  margin-top: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+
+/* Coauthor line */
+
+.paper-entry h3 + p em {
+  color: #555555;
+}
+
+
+/* Abstract */
+
+.paper-entry strong {
+  font-weight: 600;
+}
+
+
+/* Slight separation between papers */
+
+.paper-entry + .paper-entry {
+  padding-top: 0.25rem;
+}
+
+
+/* =========================================================
+   Mobile Research Page
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  .research-page {
+    padding: 0 1.25rem 4rem 1.25rem;
+  }
+
+
+  .research-page h2 {
+    font-size: 1.6rem;
+  }
+
+
+  .research-page h3 {
+    font-size: 1.25rem;
+  }
+
+
+  .paper-entry {
+    margin-bottom: 2.75rem;
+  }
+}

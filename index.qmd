@@ -1,0 +1,59 @@
+---
+title: "Nick Dunagan"
+title-block-banner: "#522D80"
+title-block-banner-color: "#FFFFFF"
+page-layout: full
+---
+
+::: {.homepage}
+
+::: {.profile-grid}
+
+::: {.profile-photo}
+![](images/headshot.jpg){.headshot}
+:::
+
+::: {.profile-text}
+
+I am a Ph.D. Candidate in Economics at Clemson University. My research interests are in industrial organization, game theory, antitrust, and the economics of innovation.
+
+My current research focuses on patents, information acquisition, and the design of intellectual property rights.
+
+I am currently on the 2026-2027 job market and available for interviews.
+
+See my [CV](files/Dunagan_CV.pdf), [Research](research.qmd), and [Teaching](teaching.qmd) pages for additional information.
+
+:::
+
+:::
+
+::: {.bottom-grid}
+
+::: {.bottom-column}
+
+## Job Market Paper
+
+"Strategic Search in Patenting"
+
+[Paper](files/Dunagan_JMP.pdf) | [Slides](files/Dunagan_JMP_Slides.pdf)
+
+:::
+
+::: {.bottom-column}
+
+::: {.bottom-column}
+
+## Contact
+
+::: {.contact-address}
+Department of Economics<br>
+Wilbur O. and Ann Powers Hall, Office 320B<br>
+Clemson University<br>
+Clemson, SC 29634
+:::
+
+::: {.contact-links}
+[nick@dunagan.org](mailto:nick@dunagan.org) &nbsp;&nbsp; | &nbsp;&nbsp; (512) 633-1288
+:::
+
+:::
