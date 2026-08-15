@@ -41,8 +41,6 @@ See my [CV](files/Dunagan_CV.pdf), [Research](research.qmd), and [Teaching](teac
 
 ::: {.bottom-column}
 
-::: {.bottom-column}
-
 ## Contact
 
 ::: {.contact-address}
@@ -54,6 +52,10 @@ Clemson, SC 29634
 
 ::: {.contact-links}
 [nick@dunagan.org](mailto:nick@dunagan.org) &nbsp;&nbsp; | &nbsp;&nbsp; (512) 633-1288
+:::
+
+:::
+
 :::
 
 :::
