@@ -1,5 +1,7 @@
 ---
 title: "Teaching"
+pagetitle: "Teaching | Nick Dunagan | Clemson Economics"
+description-meta: "Teaching experience, course evaluations, and teaching recognition for Nick Dunagan, Economics Ph.D. Candidate at Clemson University."
 title-block-banner: "#522D80"
 title-block-banner-color: "#FFFFFF"
 page-layout: full

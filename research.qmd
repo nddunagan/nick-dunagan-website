@@ -1,5 +1,7 @@
 ---
 title: "Research"
+pagetitle: "Research | Nick Dunagan | Clemson Economics"
+description-meta: "Research by Nick Dunagan on industrial organization, game theory, patents, innovation, antitrust, crime, and housing."
 title-block-banner: "#522D80"
 title-block-banner-color: "#FFFFFF"
 page-layout: full
