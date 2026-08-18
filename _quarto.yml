@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Dunagan Economics"
+  site-url: "https://nick.dunagan.org"
 
   navbar:
     right:
