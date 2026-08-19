@@ -609,3 +609,40 @@ a:hover {
     margin-bottom: 2.75rem;
   }
 }
+
+/* LinkedIn and GitHub buttons */
+
+.profile-buttons {
+  display: flex;
+  gap: 0.65rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.profile-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+
+  padding: 0.4rem 0.8rem;
+
+  border: 1.5px solid #522D80;
+  border-radius: 5px;
+
+  color: #522D80;
+  background-color: transparent;
+
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
+}
+
+.profile-button:hover {
+  background-color: #522D80;
+  color: #FFFFFF;
+  text-decoration: none;
+}
