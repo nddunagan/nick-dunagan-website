@@ -4,6 +4,7 @@ project:
 website:
   title: "Nick Dunagan"
   site-url: "https://nick.dunagan.org"
+  favicon: "images/favicon-512.png"
   open-graph: true
   image: "images/headshot.png"
 
