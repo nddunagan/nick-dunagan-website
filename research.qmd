@@ -42,6 +42,8 @@ page-layout: full
 :::
 
 
+## Works in Progress
+
 ::: {.paper-entry}
 
 ### “Judicial Bias in Capital Sentencing in Early 20th Century South Carolina”
