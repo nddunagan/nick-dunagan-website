@@ -1,11 +1,52 @@
 ---
 title: "Nick Dunagan"
 pagetitle: "Nick Dunagan | Economics Ph.D. Candidate at Clemson University"
-description-meta: "Nick Dunagan is an Economics Ph.D. Candidate at Clemson University specializing in industrial organization, game theory, antitrust, patents, and the economics of innovation."
+description-meta: "Nick Dunagan (Nicholas Dunagan) is an Economics Ph.D. Candidate at Clemson University specializing in industrial organization, game theory, antitrust, patents, and the economics of innovation."
 title-block-banner: "#522D80"
 title-block-banner-color: "#FFFFFF"
 page-layout: full
 ---
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://nick.dunagan.org/#website",
+      "url": "https://nick.dunagan.org/",
+      "name": "Nick Dunagan",
+      "alternateName": "nick.dunagan.org"
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://nick.dunagan.org/#profile",
+      "url": "https://nick.dunagan.org/",
+      "mainEntity": {
+        "@id": "https://nick.dunagan.org/#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://nick.dunagan.org/#person",
+      "name": "Nicholas Dunagan",
+      "alternateName": "Nick Dunagan",
+      "url": "https://nick.dunagan.org/",
+      "image": "https://nick.dunagan.org/images/headshot.png",
+      "jobTitle": "Ph.D. Candidate in Economics",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "Clemson University"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/nicholas-dunagan/",
+        "https://github.com/nddunagan"
+      ]
+    }
+  ]
+}
+</script>
 
 ::: {.homepage}
 
