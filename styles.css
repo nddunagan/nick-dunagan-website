@@ -646,3 +646,117 @@ a:hover {
   color: #FFFFFF;
   text-decoration: none;
 }
+
+/* CV page */
+.cv-page {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.cv-page iframe {
+  margin-top: 1rem;
+  display: block;
+}
+
+/* =========================================================
+   RESEARCH PAGE
+   ========================================================= */
+
+.paper-entry {
+  margin: 1.5rem 0 2rem 0;
+}
+
+.paper-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.paper-coauthors {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+
+/* Collapsible abstracts */
+
+.abstract-details {
+  border-left: 3px solid #522D80;
+  background: #f7f5f9;
+  border-radius: 4px;
+  margin: 0.65rem 0;
+  padding: 0.65rem 1rem;
+}
+
+.abstract-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #522D80;
+}
+
+.abstract-details summary:hover {
+  text-decoration: underline;
+}
+
+.abstract-details[open] summary {
+  margin-bottom: 0.6rem;
+}
+
+.abstract-details p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* Research presentation list */
+
+.presentation-item {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.presentation-item:last-child {
+  border-bottom: none;
+}
+
+.presentation-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.presentation-venue {
+  font-weight: 700;
+}
+
+.presentation-term {
+  color: #666;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.presentation-title {
+  font-style: italic;
+  margin: 0.15rem 0;
+}
+
+.presentation-location {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Purple download button */
+.purple-button {
+  background-color: #522D80;
+  color: #FFFFFF;
+  border: 1px solid #522D80;
+}
+
+.purple-button:hover,
+.purple-button:focus {
+  background-color: #3f2263;
+  color: #FFFFFF;
+  border-color: #3f2263;
+}

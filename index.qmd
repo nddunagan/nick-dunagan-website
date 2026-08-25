@@ -23,7 +23,7 @@ My current research focuses on patents, information acquisition, and the design 
 
 I am currently on the 2026-2027 job market and available for interviews.
 
-See my [CV](files/Dunagan_CV.pdf), [Research](research.qmd), and [Teaching](teaching.qmd) pages for additional information.
+See my [CV](cv.qmd), [Research](research.qmd), and [Teaching](teaching.qmd) pages for additional information.
 
 :::
 
@@ -37,7 +37,7 @@ See my [CV](files/Dunagan_CV.pdf), [Research](research.qmd), and [Teaching](teac
 
 "Strategic Search in Patenting"
 
-[Paper](files/Dunagan_JMP.pdf) | [Slides](files/Dunagan_JMP_Slides.pdf)
+[Paper](files/Dunagan_JMP.pdf)
 
 :::
 
