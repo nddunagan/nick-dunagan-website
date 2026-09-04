@@ -14,3 +14,7 @@ page-layout: full
   height="1200px"
   style="border: 1px solid #ddd; border-radius: 4px;">
 </iframe>
+
+<p style="text-align: right; font-size: 0.85em; color: #666;">
+Last updated: September 2026
+</p>
