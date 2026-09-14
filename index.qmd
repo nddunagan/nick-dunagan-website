@@ -58,7 +58,7 @@ page-layout: full
 
 ::: {.profile-text}
 
-I am a Ph.D. Candidate in Economics at Clemson University. My research interests are in industrial organization, game theory, antitrust, and the economics of innovation.
+I am a Ph.D. Candidate in Economics at Clemson University. My research interests are in industrial organization, game theory, litigation, antitrust, and the economics of innovation.
 
 My current research focuses on patents, information acquisition, and the design of intellectual property rights, with particular attention to how patent examination, claim breadth, and post-grant challenges shape incentives for innovation.
 

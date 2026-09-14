@@ -29,5 +29,6 @@ format:
     css: styles.css
     toc: false
     link-external-newwindow: true
+    canonical-url: true
 
 editor: source
