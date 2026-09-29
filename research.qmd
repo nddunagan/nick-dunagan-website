@@ -23,7 +23,7 @@ I develop a three-player game-theoretic model of patenting. An applicant chooses
 
 </details>
 
-[Download PDF](files/Dunagan_JMP.pdf){.btn .purple-button role="button" target="_blank"}
+[Download PDF](files/Strategic Search in Patenting - Dunagan V1.0.pdf){.btn .purple-button role="button" target="_blank"}
 
 :::
 
