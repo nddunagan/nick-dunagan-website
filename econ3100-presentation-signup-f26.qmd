@@ -1,0 +1,71 @@
+---
+title: "ECON 3100 Final Presentation Sign-Up"
+search: false
+toc: false
+page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex,nofollow,noarchive">
+---
+
+<style>
+/* Remove Quarto's normal page spacing */
+#quarto-content,
+.page-columns,
+main.content {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* We don't need a second page title below the normal website navbar */
+.quarto-title-block {
+  display: none !important;
+}
+
+/* Container for the signup application */
+.signup-page {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Make the Apps Script page fill the entire available area */
+.presentation-signup-frame {
+  display: block;
+  width: 100%;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+</style>
+
+<div class="signup-page">
+<iframe
+  id="presentationSignup"
+  class="presentation-signup-frame"
+  src="https://script.google.com/macros/s/AKfycbxafzqI0tBfMKvUyoZqbqtOSYQfGFt1xboal0I0MqI-Vi-FXoSjJXxQJw7heXRrDiJLew/exec"
+  allow="clipboard-write">
+</iframe>
+</div>
+
+<script>
+function resizeSignupPage() {
+  const frame = document.getElementById("presentationSignup");
+  const header = document.getElementById("quarto-header");
+
+  const headerHeight = header
+    ? header.getBoundingClientRect().height
+    : 0;
+
+  frame.style.height =
+    `calc(100dvh - ${headerHeight}px)`;
+}
+
+window.addEventListener("load", resizeSignupPage);
+window.addEventListener("resize", resizeSignupPage);
+</script>
