@@ -32,7 +32,7 @@ I develop a three-player game-theoretic model of patenting. An applicant chooses
 
 ::: {.paper-entry}
 
-<div class="paper-title">“Strategic Search in Patenting: An Empirical Investigation”</div>
+<div class="paper-title">“Strategic Search in Patenting: An Empirical Investigation of Patent Breadth”</div>
 
 <details class="abstract-details">
 
